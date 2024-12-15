@@ -44,7 +44,7 @@ def main():
     # Validate API Key
     if "api_key" not in st.session_state:
         st.sidebar.error("Please enter a valid API Key.")
-        st.stop()
+        # st.stop()
     
     # ------------------ MAIN PAGE ------------------ #
     st.title("👩‍💼 Welcome to AgentKaren.gov")
