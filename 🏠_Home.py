@@ -48,7 +48,7 @@ def main():
     
     # ------------------ MAIN PAGE ------------------ #
     st.title("👩‍💼 Welcome to AgentKaren.gov")
-    st.image("sources/agent_doge_5.jpg", use_column_width=True, caption="Agent Karen in Action!")
+    st.image("sources/agent_doge_5.jpg", use_container_width=True, caption="Agent Karen in Action!")
 
     # Karen's Story
     st.subheader("📖 The Story of Karen")
@@ -63,7 +63,7 @@ def main():
     - Provide clear and effective solutions 💡
     """)
 
-    st.image("sources/structure.png", use_column_width=True, caption="Operational Structure 🛠️")
+    st.image("sources/structure.png", use_container_width=True, caption="Operational Structure 🛠️")
     
     # Platform Explanation
     st.subheader("🚀 How Does AgentKaren.gov Work?")
