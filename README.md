@@ -17,7 +17,7 @@ AgentKaren.Gov is an AI-powered platform where **Karen**, once known for her nev
 ## 💻 Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/reewos/agentkaren-gov.git
+   git clone https://github.com/reewos/AgentKaren-Gov.git
    ```
 2. Install the required dependencies:
    ```bash
